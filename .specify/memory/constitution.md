@@ -1,5 +1,9 @@
 # Saldare Constitution
 
+## Project Description
+
+Saldare is a **SaaS platform** where users manage **companies**, and each company has **associated documents** (invoices, receipts, financial statements, etc.). These documents are processed through Document AI to **parse and curate accounting records**, transforming raw information into structured and validated financial data ready for accounting use.
+
 ## Core Principles
 
 ### I. Three-Tier Architecture
