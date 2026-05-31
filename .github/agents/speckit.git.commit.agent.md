@@ -7,7 +7,7 @@ description: Auto-commit changes after a Spec Kit command completes
 <!-- Config: .specify/extensions/git/ -->
 # Auto-Commit Changes
 
-Automatically stage and commit all changes after a Spec Kit command completes.
+Stage and commit changes only after receiving explicit human approval. Never commit automatically.
 
 ## Behavior
 
