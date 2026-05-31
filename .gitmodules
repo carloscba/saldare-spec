@@ -1,0 +1,3 @@
+[submodule "saldare-back"]
+	path = saldare-back
+	url = git@github.com:carloscba/saldare-back.git
