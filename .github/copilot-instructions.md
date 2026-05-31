@@ -2,6 +2,9 @@
 For additional context about technologies to be used, project structure,
 shell commands, and other important information, read the current plan.
 
+## Active Plan
+The active feature plan is at `specs/003-google-document-ai/plan.md` — read it for implementation guidance on the Google Document AI integration feature.
+
 ## Project Constitution
 This project follows a formal Constitution that governs architecture, tech stack, and security decisions.
 Read `.specify/memory/constitution.md` for the full governing rules before making architectural decisions.
